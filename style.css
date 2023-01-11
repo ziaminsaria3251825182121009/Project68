@@ -1,0 +1,8 @@
+.movie_head{
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px;
+}
+.movie_head i{
+float: right;
+}
